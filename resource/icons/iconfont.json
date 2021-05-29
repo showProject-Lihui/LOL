@@ -1,0 +1,23 @@
+{
+  "id": "2408456",
+  "name": "英雄联盟官网首页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9512608",
+      "name": "手机",
+      "font_class": "phone",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "14329758",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    }
+  ]
+}
